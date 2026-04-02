@@ -1,0 +1,3 @@
+load("/Users/raygence/Documents/CWRU/Ozone_Capstone/data_out/cleveland_2023_data.rds")
+load("/Users/raygence/Documents/CWRU/Ozone_Capstone/data_out/cleveland_2024_data.rds")
+load("/Users/raygence/Documents/CWRU/Ozone_Capstone/data_out/cleveland_2024_data.rds")
